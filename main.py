@@ -3,6 +3,8 @@ import time
 url='http://api.telegram.org/bot'
 token='8111643516:AAEHWfdahTAy7Kp3gI9_zTcI6gFZVTWWw4o'
 text='hello'
+
+
 max_counter=10
 
 offset=-2
